@@ -1,0 +1,13 @@
+{
+  "restartable": "rs",
+  "watch": ["src"],
+  "ext": "js",
+  "ignore": ["src/**/*.json"],
+  "execMap": {
+    "js": "babel-node src/index.js"
+  },
+  "verbose": false,
+  "env": {
+  }
+}
+
