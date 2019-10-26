@@ -1,5 +1,3 @@
-console.log('babel-node-2')
-console.log('babel-node-2')
-console.log('babel-node-2')
-console.log('babel-node-2')
-console.log('babel-node-2')
+import { bar } from './foo'
+
+bar()
