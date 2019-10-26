@@ -5,7 +5,9 @@
 
 * Nodemon Monitor for any changes,  automatically restart the server
 
-* Nodemon for debugger
+* Debugger settings
+
+* eslint
 
 ### Usage
 >---
